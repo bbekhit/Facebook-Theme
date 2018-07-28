@@ -1,0 +1,157 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar{
+    background-color: #3b5998;
+}
+
+.navbar-brand .fa{
+    background-color: #fff;
+    border-radius: 2px;
+    color: #3b5998;
+}
+
+.navbar-brand .fa:hover{
+    color: #35528e;
+}
+
+.navbar .input-group{
+    width: 35%;
+}
+
+.navbar .input-group .fa{
+    color: #3b5998;
+}
+
+.nav-link{
+    font-size: 30px;
+}
+
+.navbar .nav-text{
+    color: #fff;
+    text-decoration: none;
+}
+
+.navbar .nav-text:hover{
+    border-radius: 2px;
+    background-color: #2f477b;
+}
+
+.navbar .nav-icon{
+    color: #3b3b3b;
+}
+
+.navbar .nav-icon:hover{
+    color:#2f477b;
+}
+
+#main{
+    min-height: 100vh;
+    background-color:#f7f7f7 ;
+}
+
+.sidebar a{
+    color: #191919;
+}
+
+.sidebar a:hover{
+    background-color: #ced0ce;
+    border-radius: 2px;
+}
+
+.sidebar .fa{
+    color:#3b5998; 
+}
+
+.online{
+    border-left: 2px solid #ced0ce;
+    min-height: 100vh;
+}
+
+.no-padding{
+    padding: 0;
+}
+
+.online .link-text{
+    color: #191919;
+    font-size: 15px;
+}
+
+.online .link-time{
+    color: #ced0ce;
+    font-size: 15px;
+}
+
+.online a:hover .link-time{
+    color: #191919;
+}
+
+.online a:hover{
+    background-color: #ced0ce;
+    border-radius: 2px;
+}
+
+.posts .card{
+    font-size: 15px;
+}
+
+.posts .card .icon-text{
+    text-decoration: none;
+    color: #3b5998;
+}
+
+.posts .card .icon-text:hover{
+    color: #192743;
+}
+
+.posts .card .like-icons{
+    color: #c10000;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
